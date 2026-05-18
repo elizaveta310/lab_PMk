@@ -13,11 +13,10 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Lavrinovych">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Lavrinovych\Lab03\Source Files">
 <ExpandedNodeIds>
 <v>Lavrinovych</v>
 <v>Lavrinovych\Lab02\TopDesign</v>
-<v>Lavrinovych\Lab02\Lab02.cydwr</v>
 <v>Lavrinovych\Lab02\Lab02.cydwr\Pins</v>
 <v>Lavrinovych\Lab02\Lab02.cydwr\Analog</v>
 <v>Lavrinovych\Lab02\Lab02.cydwr\Clocks</v>
@@ -44,7 +43,7 @@
 <v>Lavrinovych\Lab03\Header Files</v>
 <v>Lavrinovych\Lab03\Header Files\cyapicallbacks.h</v>
 <v>Lavrinovych\Lab03\Source Files</v>
-<v>Lavrinovych\Lab03\Source Files\main.c</v>
+<v>Lavrinovych\Lab03\Source Files\source05.c</v>
 <v>Lavrinovych\Lab03\Generated_Source</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4</v>
 </ExpandedNodeIds>
@@ -64,7 +63,7 @@
 <v>Lavrinovych\Lab03\Header Files</v>
 <v>Lavrinovych\Lab03\Header Files\cyapicallbacks.h</v>
 <v>Lavrinovych\Lab03\Source Files</v>
-<v>Lavrinovych\Lab03\Source Files\main.c</v>
+<v>Lavrinovych\Lab03\Source Files\source05.c</v>
 <v>Lavrinovych\Lab03\Generated_Source</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4\Button</v>
@@ -74,18 +73,16 @@
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4\cy_boot</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4\cy_lfclk</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
-<v>Lavrinovych\Lab03\Generated_Source\PSoC4\LED_B</v>
-<v>Lavrinovych\Lab03\Generated_Source\PSoC4\LED_G</v>
-<v>Lavrinovych\Lab03\Generated_Source\PSoC4\LED_R</v>
+<v>Lavrinovych\Lab03\Generated_Source\PSoC4\Pin_CLK</v>
+<v>Lavrinovych\Lab03\Generated_Source\PSoC4\Pin_DO</v>
+<v>Lavrinovych\Lab03\Generated_Source\PSoC4\Pin_Latch</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4\ROW_0</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4\ROW_1</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4\ROW_2</v>
 <v>Lavrinovych\Lab03\Generated_Source\PSoC4\ROW_3</v>
-<v>Lavrinovych\Lab03\Generated_Source\PSoC4\SW_Tx_UART</v>
-<v>Lavrinovych\Lab03\Generated_Source\PSoC4\cycodeshareexport.ld</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Lavrinovych">
 <ExpandedNodeIds>
 <v>Lavrinovych</v>
 <v>Lavrinovych\Lab02</v>
@@ -105,7 +102,7 @@
 <v>Lavrinovych\Lab03\TopDesign\TopDesign.cysch</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Lavrinovych">
 <ExpandedNodeIds>
 <v>Lavrinovych</v>
 <v>Lavrinovych\Lab02</v>
@@ -116,6 +113,12 @@
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\Button.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\Button_PM.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_0.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_0_PM.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_1.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_1_PM.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_3.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_3_PM.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
@@ -132,6 +135,14 @@
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_R.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_R_PM.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_0.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_0_PM.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_1.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_1_PM.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_2.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_2_PM.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_3.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_3_PM.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\SW_Tx_UART.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\SW_Tx_UART_AsmGnu.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Lab02.elf</v>
@@ -163,13 +174,12 @@
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_B.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_B_PM.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_G.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_G_PM.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_R.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_R_PM.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_CLK.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_CLK_PM.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_DO.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_DO_PM.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Latch.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Latch_PM.lst</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_0.lst</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_0_PM.lst</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_1.lst</v>
@@ -178,8 +188,10 @@
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_2_PM.lst</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_3.lst</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_3_PM.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\SW_Tx_UART.lst</v>
-<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\SW_Tx_UART_AsmGnu.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\source05.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer_Int.lst</v>
+<v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Listing Files\Timer_PM.lst</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Lab03.elf</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Lab03.hex</v>
 <v>Lavrinovych\Lab03\CortexM0\ARM_GCC_541\Debug\Lab03.map</v>
@@ -197,6 +209,12 @@
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\Button.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\Button_PM.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_0.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_0_PM.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_1.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_1_PM.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_3.lst</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\COLUMN_3_PM.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
@@ -213,15 +231,7 @@
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_R.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_R_PM.lst</v>
 <v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
-<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\SW_Tx_UART.lst</v>
-<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\SW_Tx_UART_AsmGnu.lst</v>
-<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Lab02.elf</v>
-<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Lab02.hex</v>
-<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Lab02.map</v>
-<v>Lavrinovych\Lab02\Lab02.gpdsc</v>
-<v>Lavrinovych\Lab02\Lab02.rpt</v>
-<v>Lavrinovych\Lab02\Lab02_timing.html</v>
-<v>Lavrinovych\Lab03</v>
+<v>Lavrinovych\Lab02\CortexM0\ARM_GCC_541\Debug\Listing Files\ROW_0.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -247,9 +257,12 @@
 <v>Lavrinovych\Lab03\System Reference Guides</v>
 <v>Lavrinovych\Lab03\System Reference Guides\cy_boot_v6_10</v>
 <v>Lavrinovych\Lab03\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Lavrinovych\Lab03\cy_clock_v2_20.pdf</v>
+<v>Lavrinovych\Lab03\cy_isr_v1_71.pdf</v>
 <v>Lavrinovych\Lab03\cy_pins_v2_20</v>
 <v>Lavrinovych\Lab03\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
-<v>Lavrinovych\Lab03\SW_Tx_UART_v1_50.pdf</v>
+<v>Lavrinovych\Lab03\Timer_v2_80.pdf</v>
+<v>Lavrinovych\Lab03\ZeroTerminal.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Lavrinovych</v>
@@ -268,9 +281,12 @@
 <v>Lavrinovych\Lab03\System Reference Guides</v>
 <v>Lavrinovych\Lab03\System Reference Guides\cy_boot_v6_10</v>
 <v>Lavrinovych\Lab03\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Lavrinovych\Lab03\cy_clock_v2_20.pdf</v>
+<v>Lavrinovych\Lab03\cy_isr_v1_71.pdf</v>
 <v>Lavrinovych\Lab03\cy_pins_v2_20</v>
 <v>Lavrinovych\Lab03\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
-<v>Lavrinovych\Lab03\SW_Tx_UART_v1_50.pdf</v>
+<v>Lavrinovych\Lab03\Timer_v2_80.pdf</v>
+<v>Lavrinovych\Lab03\ZeroTerminal.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -285,10 +301,9 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\Lab02.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\Lab02.cydsn\main.c" />
-<name v=".\Lab02.cydsn\Lab02.cydwr" />
-<name v=".\Lab03.cydsn\main.c" />
+<name v=".\Lab03.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Lab03.cydsn\Lab03.cydwr" />
+<name v=".\source05.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -296,7 +311,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1349, 741" SelectedTabbedMdiWindow="0ab3963a-81d5-4e32-9a9c-90dbd95b8c5a"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="9e6c52ae-d744-4f89-bb3a-05f509e7dae5" /><DocumentWindow Key="C:\Users\STUDENT\Documents\PSoC Creator\Lavrinovych\Lab02.cydsn\TopDesign\TopDesign.cysch" Guid="d6d1e8bd-fa1b-41df-bdc6-b58e4e394c0c" /><DocumentWindow Key="C:\Users\STUDENT\Documents\PSoC Creator\Lavrinovych\Lab02.cydsn\main.c" Guid="99d61cff-8035-4b72-85a5-82bdb66a2b88" /><DocumentWindow Key="C:\Users\STUDENT\Documents\PSoC Creator\Lavrinovych\Lab02.cydsn\Lab02.cydwr" Guid="3e5ee1db-f9a9-469f-ba8f-ce91cf558019" /><DocumentWindow Key="C:\Users\STUDENT\Documents\PSoC Creator\Lavrinovych\Lab03.cydsn\main.c" Guid="0ab3963a-81d5-4e32-9a9c-90dbd95b8c5a" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1349, 630" SelectedTabbedMdiWindow="03d453aa-d323-4fb8-a38e-487caebf3b5b"><DocumentWindow Key="C:\Users\STUDENT\Documents\PSoC Creator\Lavrinovych\Lab03.cydsn\TopDesign\TopDesign.cysch" Guid="03d453aa-d323-4fb8-a38e-487caebf3b5b" /><DocumentWindow Key="C:\Users\STUDENT\Documents\PSoC Creator\Lavrinovych\Lab03.cydsn\Lab03.cydwr" Guid="842fde31-2c9d-439b-990a-6266c1dbdccb" /><DocumentWindow Key="C:\Users\STUDENT\Documents\PSoC Creator\Lavrinovych\source05.c" Guid="66f24576-76e1-4ac6-afdc-665c04ac4a33" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="9e6c52ae-d744-4f89-bb3a-05f509e7dae5" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="Debug" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
